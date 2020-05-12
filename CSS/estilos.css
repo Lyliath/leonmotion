@@ -1,0 +1,24 @@
+body {
+    background-image: url('https://media1.tenor.com/images/2b3e850df01a4e699aa80795ea34a8f8/tenor.gif');
+    font-family: Gotham Rounded Light;
+    background-size: auto 100vh;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  li,
+  a {
+    text-decoration: none;
+    color: #78FF82;  
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
